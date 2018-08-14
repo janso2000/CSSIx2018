@@ -1,7 +1,7 @@
 body {
-    font-family: "helvetica", sans-serif;
-    background: #e8e8e8;
-    color: rgba(39,65,90,.9);
+    font-family: 'Andada'; font-size: 30px;
+    background: #960000;
+    color: rgba(00,00, 00, .9);
     text-align: center;
 }
 
