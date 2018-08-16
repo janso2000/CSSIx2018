@@ -9,6 +9,7 @@ body {
 .topnav {
         overflow: hidden;
         background:#4cd2ff;
+        width: 100%;
 }
 
 .topnav a {
@@ -34,7 +35,7 @@ div.table {
         display: inline;
         float: left;
         width: 25%;
-        padding: 10px;        
+        padding: 15px;        
 } 
 
 form {
